@@ -35,5 +35,6 @@ To revolutionize healthcare data management by enabling **trust, transparency, a
 - **Hardhat / Truffle** (Development Framework)
 - **React / Next.js (optional)** (Frontend dApp Interface)
 Contract address:0xd0921Bcc24D4D529D96ABC104AFa8055fb6F4fE7
-<img width="529" height="403" alt="image" src="https://github.com/user-attachments/assets/7d5e5842-035c-433e-9deb-81fc49edd049" />
+<img width="1280" height="963" alt="image" src="https://github.com/user-attachments/assets/51d01098-2204-437c-9bdd-3eaec714e4cb" />
+
 
